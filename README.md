@@ -13,7 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://maaheen-anwar.github.io/Portfolio/](https://maaheen-anwar.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [Currently setting this up — if you’re serious, start writing about your IoT builds & RAG work. It’ll help your credibility.](Currently setting this up — if you’re serious, start writing about your IoT builds & RAG work. It’ll help your credibility.)
+- 📝 I regularly write articles on
+  Currently setting this up — if you’re serious, start writing about your IoT builds & RAG work. It’ll help your credibility.
 
 - 💬 Ask me about **Java, C, C++, Python, SQL, React, REST APIs, IoT systems, RAG workflows, and database-backed web apps.**
 
